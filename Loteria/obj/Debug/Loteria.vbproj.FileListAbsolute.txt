@@ -1,0 +1,10 @@
+c:\users\sergio-adm\documents\visual studio 2013\Projects\Loteria\Loteria\bin\Debug\Loteria.exe.config
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\bin\Debug\Loteria.exe
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\bin\Debug\Loteria.pdb
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\bin\Debug\Loteria.xml
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.vbprojResolveAssemblyReference.cache
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.Resources.resources
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.vbproj.GenerateResource.Cache
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.exe
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.xml
+C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.pdb
