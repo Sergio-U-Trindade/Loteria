@@ -19,6 +19,55 @@ Loteria
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="P:Loteria.Loterias.Loteria.Tipo">
+	<summary>
+ Propriedade que define o tipo de loteria
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Loteria.Loterias.Loteria.Formulario">
+	<summary>
+ Utilizada uma propriedade auto implementada para a definição do formulário
+ Uma vez que a mesma não necessita de lógica adicional
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Loteria.Loterias.Loteria.Quantidade_Aposta">
+	<summary>
+ Propriedade responsável pela quantidade de apostas a serem sorteadas
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Loteria.Loterias.Loteria.Minimo">
+	<summary>
+ Propriedade responsável por controlar o menor número a ser levado em consideração para o sorteio
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Loteria.Loterias.Loteria.Maximo">
+	<summary>
+ Propriedade responsável por controlar o maior número a ser levado em consideração para o sorteio
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Loteria.Loterias.Loteria.Quantidade_Num_Aposta">
+	<summary>
+ Propriedade responsável por controlar a quantidade de números por aposta
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Loteria.Loterias.Loteria.Calculate_random">
+	<summary>
+ Método responsável pelo sorteio dos números levando em consideração o número mínimo e o número máximo
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
 </member>
 </members>
 </doc>

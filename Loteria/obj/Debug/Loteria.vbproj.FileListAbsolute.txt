@@ -8,3 +8,4 @@ C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\De
 C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.exe
 C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.xml
 C:\Users\Sergio-ADM\documents\visual studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.pdb
+C:\Users\Sergio-ADM\Documents\Visual Studio 2013\Projects\Loteria\Loteria\obj\Debug\Loteria.Form1.resources
